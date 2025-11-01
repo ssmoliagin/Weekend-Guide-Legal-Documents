@@ -38,7 +38,8 @@
 
 \## 6. Контакты
 
-По всем вопросам обращайтесь: \*\*sergeismoliagin@gmail.com\*\*
+По всем вопросам обращайтесь: \*\*weekendguide.app@gmail.com\*\*
+
 
 
 
