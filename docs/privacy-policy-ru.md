@@ -56,7 +56,8 @@
 
 \## 6. Контакты
 
-Вопросы и обращения: \*\*sergeismoliagin@gmail.com\*\*
+Вопросы и обращения: \*\*weekendguide.app@gmail.com\*\*
+
 
 
 
