@@ -38,7 +38,8 @@ Der Entwickler behält sich das Recht vor, diese Nutzungsbedingungen zu ändern.
 
 \## 6. Kontakt
 
-Fragen richten Sie bitte an: \*\*sergeismoliagin@gmail.com\*\*
+Fragen richten Sie bitte an: \*\*weekendguide.app@gmail.com\*\*
+
 
 
 
