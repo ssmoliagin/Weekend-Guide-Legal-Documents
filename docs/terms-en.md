@@ -34,7 +34,8 @@ The Developer reserves the right to modify these Terms of Use. The latest versio
 
 \## 6. Contact
 
-For questions, please contact: \*\*sergeismoliagin@gmail.com\*\*
+For questions, please contact: \*\*weekendguide.app@gmail.com\*\*
+
 
 
 
