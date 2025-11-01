@@ -56,7 +56,8 @@ The Developer reserves the right to update this Privacy Policy. The latest versi
 
 \## 6. Contact
 
-If you have any questions, please contact us: \*\*sergeismoliagin@gmail.com\*\*
+If you have any questions, please contact us: \*\*weekendguide.app@gmail.com\*\*
+
 
 
 
