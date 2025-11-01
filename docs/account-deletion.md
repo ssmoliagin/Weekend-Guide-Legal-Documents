@@ -11,13 +11,13 @@ You can delete your account and all related personal data directly from the app.
 
 ### How to delete your account
 1. Open the Weekend Guide app.  
-2. Go to **Settings → Delete Account**.  
+2. Go to **Profile → Edit Profile → Delete Account**.  
 3. Confirm deletion.  
 
 Your account and all related data (email, preferences, history) will be permanently deleted from our Firebase database within 30 days.
 
 If you can no longer access the app, you may request account deletion by email:  
-📧 [your-email@example.com]
+📧 [weekendguide.app@gmail.com]
 
 ---
 
@@ -30,13 +30,13 @@ Sie können Ihr Konto und alle zugehörigen personenbezogenen Daten direkt in de
 
 ### So löschen Sie Ihr Konto
 1. Öffnen Sie die Weekend Guide App.  
-2. Gehen Sie zu **Einstellungen → Konto löschen**.  
+2. Gehen Sie zu **Profil → Profil bearbeiten → Konto löschen**.  
 3. Bestätigen Sie die Löschung.  
 
 Ihr Konto und alle zugehörigen Daten (E-Mail, Einstellungen, Verlauf) werden innerhalb von 30 Tagen dauerhaft aus unserer Firebase-Datenbank gelöscht.
 
 Wenn Sie keinen Zugriff mehr auf die App haben, können Sie eine Löschung per E-Mail beantragen:  
-📧 [your-email@example.com]
+📧 [weekendguide.app@gmail.com]
 
 ---
 
@@ -49,13 +49,13 @@ Wenn Sie keinen Zugriff mehr auf die App haben, können Sie eine Löschung per E
 
 ### Как удалить аккаунт
 1. Откройте приложение **Weekend Guide**.  
-2. Перейдите в **Настройки → Удалить аккаунт**.  
+2. Перейдите в **Профиль → Редактирование профиля → Удалить аккаунт**.  
 3. Подтвердите удаление.  
 
 Ваш аккаунт и все связанные данные (email, настройки, история) будут окончательно удалены из базы данных Firebase в течение 30 дней.
 
 Если у вас нет доступа к приложению, вы можете запросить удаление по email:  
-📧 [your-email@example.com]
+📧 [weekendguide.app@gmail.com]
 
 ---
 
