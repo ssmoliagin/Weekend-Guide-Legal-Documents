@@ -56,7 +56,8 @@ Der Entwickler behält sich das Recht vor, diese Datenschutzerklärung zu änder
 
 \## 6. Kontakt
 
-Bei Fragen wenden Sie sich bitte an: \*\*sergeismoliagin@gmail.com\*\*
+Bei Fragen wenden Sie sich bitte an: \*\*weekendguide.app@gmail.com\*\*
+
 
 
 
